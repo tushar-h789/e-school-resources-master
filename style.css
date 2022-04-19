@@ -1,0 +1,60 @@
+.site_color{
+    background-color: #F0FFF0;
+}
+.padding_site{
+    padding: 80px;
+}
+.image_width{
+    width: 200px;
+}
+
+.p_color{
+    
+    color: #FD511A;
+}
+.learn_color{
+    
+    color: #21B573;
+}
+.paragraph_color{
+    color: gray;
+}
+.Learn_size{
+    font-weight: bold;
+}
+.getstart_button{
+    background-color: #21B573;
+    border: none;
+    padding: 5px 22px;
+    border-radius: 8px;
+    
+}
+.booking_topic{
+    border: ;
+}
+.students_info{
+    border: none;
+}
+.center_text{
+    text-align: center;
+    color: rgb(29, 21, 71);
+    padding: 80px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.testimonial_area{
+    padding:0 200px;
+}
+.testimonial_area{
+    padding-bottom: 100px;
+}
+.footer_area{
+    padding: 50px;
+    color: white;
+    background-color: rgb(30, 18, 42);
+}
+.tushar_area{
+    padding-top: 20px;
+}
